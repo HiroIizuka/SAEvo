@@ -1,0 +1,1 @@
+retry.py --file saved_particles/alife_journal/particles_iter_0140.pkl --reducers_file replay_graphs/reducers_and_axis_limits.pkl --output_file retry_140.png
